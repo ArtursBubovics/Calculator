@@ -1,5 +1,4 @@
-# Calculator
-_____
+# Calculators
 
 ## Projekta apraksts:
 Šajā projektā tika izveidots kalnrēķinātājs, kas ļauj veikt matemātiskas operācijas ar skaitļiem. Kalnrēķinātājs ir izstrādāts, izmantojot šādas tehnoloģijas un metodoloģijas:
