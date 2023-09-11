@@ -8,8 +8,8 @@
 + **CSS**: Kalnrēķinātāja izskats un stilizācija tiek veikta, izmantojot CSS stilosheets. **BEM** metodoloģijas pielietošana palīdz pārvaldīt klases un stila definīcijas, padarot CSS kodu uzturamiem un pielāgojamu.
 
 + **JavaScript**: Lai piešķirtu funkcionalitāti kalnrēķinātājam, tiek izmantots JavaScript. Kalnrēķinātājs ļauj veikt šādas darbības:
-    ++ Saskaitīt, atņemt, reizināt un dalīt skaitļus.
-    ++ Izmantot skaitļus ar pludmales punktu (decimālo skaitļu).
-    ++ Izmantot iekavas, lai noteiktu darbību prioritāti.
-    ++ Notīrīt displeju, lai ievadītu jaunus izteiksmes.
-    ++ Dzēst pēdējo ievadīto ciparu vai simbolu (poga "←").
+    + Saskaitīt, atņemt, reizināt un dalīt skaitļus.
+    + Izmantot skaitļus ar pludmales punktu (decimālo skaitļu).
+    + Izmantot iekavas, lai noteiktu darbību prioritāti.
+    + Notīrīt displeju, lai ievadītu jaunus izteiksmes.
+    + Dzēst pēdējo ievadīto ciparu vai simbolu (poga "←").
