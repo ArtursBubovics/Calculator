@@ -1,7 +1,7 @@
 # Calculators
 
 ## Projekta apraksts:
-Šajā projektā tika izveidots kalnrēķinātājs, kas ļauj veikt matemātiskas operācijas ar skaitļiem. Kalnrēķinātājs ir izstrādāts, izmantojot šādas tehnoloģijas un metodoloģijas:
+Šajā projektā tika izveidots kalnrēķinātājs, kas ļauj veikt matemātiskas operācijas ar skaitļiem. Šis kalkulatoru ir pielāgots un piemērots dažādām ierīcēm, ieskaitot gan datorus, gan planšetdatorus, gan mobilos ierīces. Kalnrēķinātājs ir izstrādāts, izmantojot šādas tehnoloģijas un metodoloģijas:
 
 + **HTML**: Projekts izmanto HTML, lai izveidotu kalnrēķinātāja struktūru. HTML struktūra ir izveidota, ņemot vērā **BEM** metodoloģiju (Block-Element-Modifier), lai radītu skaidru un saprotamu kodu.
 
