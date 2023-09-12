@@ -14,4 +14,4 @@
     + Notīrīt displeju, lai ievadītu jaunus izteiksmes.
     + Dzēst pēdējo ievadīto ciparu vai simbolu (poga "←").
 
-![Img_Calculator](https://github.com/ArtursBubovics/Calculator/assets/70743839/45b17a53-62e8-4cc1-8e00-db959573e41a)
+![Calculator_img](https://github.com/ArtursBubovics/Calculator/assets/70743839/633ebcc3-e0e1-4f1f-9736-3d710f91fd37)
