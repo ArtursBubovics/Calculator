@@ -15,4 +15,5 @@
     + Dzēst pēdējo ievadīto ciparu vai simbolu (poga "←").
 
 ## Kā tas izskatās:
+
 ![Calculator_img](https://github.com/ArtursBubovics/Calculator/assets/70743839/633ebcc3-e0e1-4f1f-9736-3d710f91fd37)
