@@ -13,3 +13,5 @@
     + Izmantot iekavas, lai noteiktu darbību prioritāti.
     + Notīrīt displeju, lai ievadītu jaunus izteiksmes.
     + Dzēst pēdējo ievadīto ciparu vai simbolu (poga "←").
+
+![Img_Calculator](https://github.com/ArtursBubovics/Calculator/assets/70743839/45b17a53-62e8-4cc1-8e00-db959573e41a)
