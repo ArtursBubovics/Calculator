@@ -24,4 +24,11 @@
     + **XAMPP** - Lokālās attīstības vides izveidei un servera palaišanai.
 
 ## Kā tas izskatās:
+
 ![Image alt](https://github.com/ArtursBubovics/Calculator/blob/main/Calculator_img.PNG)
+
+
+
+<kbd>
+  <img src="/Calculator_img/Calculator_img.PNG" />
+</kbd>
