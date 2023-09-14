@@ -1,28 +1,29 @@
+
 # Calculators
 
-## Projekta apraksts:
-Šajā projektā tika izveidots kalnrēķinātājs, kas ļauj veikt matemātiskas operācijas ar skaitļiem. Šis kalkulatoru ir pielāgots un piemērots dažādām ierīcēm, ieskaitot gan datorus, gan planšetdatorus, gan mobilos ierīces. Kalnrēķinātājs ir izstrādāts, izmantojot šādas tehnoloģijas un metodoloģijas:
+## Project Description:
+In this project, a calculator has been created that allows performing mathematical operations with numbers. This calculator is adaptable and suitable for various devices, including computers, tablets, and mobile devices. The calculator is developed using the following technologies and methodologies:
 
-## Lomas un funkcionalitātes:
+## Roles and Features:
 
-+ Lietotājs:
-    + Saskaitīt, atņemt, reizināt un dalīt skaitļus.
-    + Izmantot skaitļus ar pludmales punktu (decimālo skaitļu).
-    + Izmantot iekavas, lai noteiktu darbību prioritāti.
-    + Notīrīt displeju, lai ievadītu jaunus izteiksmes.
-    + Dzēst pēdējo ievadīto ciparu vai simbolu (poga "←").
++ User:
+    + Add, subtract, multiply, and divide numbers.
+    + Use numbers with decimal points (decimal numbers).
+    + Use parentheses to determine the order of operations.
+    + Clear the display to enter new expressions.
+    + Delete the last entered digit or symbol (using the "←" button).
 
-## Izmantotās tehnoloģijas:
-
+## Technologies Used:
 + Front-End:
-    + **HTML** -  Tīmekļa lapu struktūras izveidei. HTML struktūra ir izveidota, ņemot vērā **BEM** metodoloģiju (Block-Element-Modifier), lai radītu skaidru un saprotamu kodu.
 
-    + **CSS** -  Vietnes stilizēšanai un izskata pielāgošanai. **BEM** metodoloģijas pielietošana palīdz pārvaldīt klases un stila definīcijas, padarot CSS kodu uzturamiem un pielāgojamu.
+    +HTML - Used for creating the structure of web pages. HTML structure is created following the BEM methodology (Block-Element-Modifier) to maintain clear and understandable code.
+
+    + CSS - Used for styling the website and customizing its appearance. The use of the BEM methodology helps manage classes and style definitions, making the CSS code maintainable and adaptable.
 
 + Back-End:
-    + **JavaScript** - Lai piešķirtu funkcionalitāti kalnrēķinātājam, tiek izmantots JavaScript.
-    + **XAMPP** - Lokālās attīstības vides izveidei un servera palaišanai.
 
-## Kā tas izskatās:
+    + JavaScript - Used to add functionality to the calculator.
+    + XAMPP - Used to create a local development environment and run the server.
 
+## What It Looks Like:
 ![Image alt](https://github.com/ArtursBubovics/Calculator/blob/main/Calculator_img.PNG)
